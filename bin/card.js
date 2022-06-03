@@ -12,8 +12,8 @@ let options = {
 let data = {
   name: chalk.white('Andy Van Slaars /'),
   handle: chalk.cyan('avanslaars'),
-  work: chalk.white('Enterprise Architect at Cengage Learning'),
-  egghead: chalk.cyan('https://egghead.io/instructors/andrew-van-slaars'),
+  work: chalk.white('UI Architect'),
+  egghead: chalk.cyan('https://egghead.io/q/resources-by-andy-van-slaars?af=5mx0ie'),
   twitter: chalk.cyan('https://twitter.com/avanslaars'),
   github: chalk.cyan('https://github.com/avanslaars'),
   linkedin: chalk.cyan('https://linkedin.com/in/avanslaars'),
